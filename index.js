@@ -6,7 +6,7 @@ document.getElementById("botao").addEventListener("click", function() {
 
     // Se a senha for válida, redirecione para outra página
     if (senha === "podecontratar") {
-        window.location.href = "/workspaces/portifoliolucass/home.html";
+        window.location.href = "home.html";
     } else {
         alert("Senha incorreta!");
     }
