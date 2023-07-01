@@ -1,0 +1,33 @@
+* {
+    background-color:darkcyan
+  }
+
+  body{
+    font-family: "Menlo", "Courier New", monospace;
+    color: white;
+
+  }
+
+  ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+
+  a{
+    color: white;
+  }
+  
+  header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+    border: 5px solid black
+    
+  }
+
+  .center{
+    text-align: center;
+  }
+
+
