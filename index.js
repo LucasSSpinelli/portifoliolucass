@@ -6,7 +6,7 @@ document.getElementById("botao").addEventListener("click", function() {
 
     // Se a senha for válida, redirecione para outra página
     if (senha === "podecontratar") {
-        window.location.href = "/Users/lucasss/Library/Mobile Documents/com~apple~CloudDocs/WEB/GitHubpage/home.html";
+        window.location.href = "/workspaces/portifoliolucass/home.html";
     } else {
         alert("Senha incorreta!");
     }
